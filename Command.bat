@@ -1,1 +1,0 @@
-cd "%userprofile%\Desktop\CCSICT_CONSOLE\src" && javac App.java && java App
