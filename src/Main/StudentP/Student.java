@@ -138,7 +138,7 @@ public class Student extends MainUI{
             }
 
             case 2 -> {
-                return Integer.parseInt(input_holder[2]) == (Year.now().getValue() - (age + 1)) ? input_holder[2] : null;
+                return Integer.parseInt(input_holder[2]) == (Year.now().getValue() - (age)) ? input_holder[2] : null;
             }
         }
 

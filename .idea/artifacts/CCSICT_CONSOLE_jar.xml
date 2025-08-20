@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CCSICT_CONSOLE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CCSICT_CONSOLE_jar</output-path>
+    <root id="archive" name="CCSICT_CONSOLE.jar">
+      <element id="module-output" name="CCSICT_CONSOLE2" />
+      <element id="module-output" name="target" />
+    </root>
+  </artifact>
+</component>

@@ -23,6 +23,7 @@ public class Login_Signup extends System_in{
         
         OUTER:
         do {
+            clear();
             LINELENGTH.setValueInt(25);
             newLinesHorizontalCenteredTextln(15, "-".repeat(LINELENGTH.getValueInt()));
             horizontalCenteredTextln("-".repeat(LINELENGTH.getValueInt()) + "> ISU-E CCSICT <" +
